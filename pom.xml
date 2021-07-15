@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.java.saturday</groupId>
-  <artifactId>project1</artifactId>
+  <artifactId>webapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
-  <name>project1</name>
+  <name>webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
